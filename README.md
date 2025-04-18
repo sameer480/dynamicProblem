@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sameer480/dynamicProblem/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sameer480/dynamicProblem/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sameer480/dynamicProblem/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sameer480/dynamicProblem/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
