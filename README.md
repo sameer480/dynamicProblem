@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/sameer480/dynamicProblem/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sameer480/dynamicProblem/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/sameer480/dynamicProblem/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sameer480/dynamicProblem/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sameer480/dynamicProblem/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/sameer480/dynamicProblem/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
@@ -55,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sameer480/dynamicProblem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/sameer480/dynamicProblem/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
