@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sameer480/dynamicProblem/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sameer480/dynamicProblem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1250-longest-common-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
