@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sameer480/dynamicProblem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sameer480/dynamicProblem/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sameer480/dynamicProblem/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/sameer480/dynamicProblem/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/sameer480/dynamicProblem/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sameer480/dynamicProblem/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/sameer480/dynamicProblem/tree/master/0139-word-break) |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sameer480/dynamicProblem/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sameer480/dynamicProblem/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sameer480/dynamicProblem/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sameer480/dynamicProblem/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
