@@ -1,6 +1,6 @@
 class Solution {
     int solve(int low, int high, int zero, int one, int i, long[] dp) {
-        long mod = 1_000_000_007;
+       long mod = 1000000007L;
         
         if (i > high) {
             return 0;
