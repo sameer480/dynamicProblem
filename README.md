@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/sameer480/dynamicProblem/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/sameer480/dynamicProblem/tree/master/2562-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
 | ------- |
