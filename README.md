@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sameer480/dynamicProblem/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sameer480/dynamicProblem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/sameer480/dynamicProblem/tree/master/0806-domino-and-tromino-tiling) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sameer480/dynamicProblem/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/sameer480/dynamicProblem/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/sameer480/dynamicProblem/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/sameer480/dynamicProblem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sameer480/dynamicProblem/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
