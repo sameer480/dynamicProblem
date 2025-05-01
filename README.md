@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/sameer480/dynamicProblem/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/sameer480/dynamicProblem/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/1250-longest-common-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sameer480/dynamicProblem/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/sameer480/dynamicProblem/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sameer480/dynamicProblem/tree/master/2562-count-ways-to-build-good-strings) |
 ## Recursion
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sameer480/dynamicProblem/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sameer480/dynamicProblem/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/sameer480/dynamicProblem/tree/master/1105-uncrossed-lines) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sameer480/dynamicProblem/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/sameer480/dynamicProblem/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sameer480/dynamicProblem/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/sameer480/dynamicProblem/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Combinatorics
 |  |
 | ------- |
