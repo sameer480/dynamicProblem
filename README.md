@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sameer480/dynamicProblem/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameer480/dynamicProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sameer480/dynamicProblem/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sameer480/dynamicProblem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sameer480/dynamicProblem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sameer480/dynamicProblem/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/sameer480/dynamicProblem/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/sameer480/dynamicProblem/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sameer480/dynamicProblem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/sameer480/dynamicProblem/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sameer480/dynamicProblem/tree/master/0747-min-cost-climbing-stairs) |
@@ -160,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sameer480/dynamicProblem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameer480/dynamicProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sameer480/dynamicProblem/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
